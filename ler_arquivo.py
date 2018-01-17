@@ -30,3 +30,8 @@ for linha in data:
 
 #Necessário fechar arquivo para salvar
 saida.close()
+
+#Python with oracle
+#http://www.oracle.com/technetwork/articles/dsl/python-091105.html
+#https://oracle.github.io/python-cx_Oracle/
+
